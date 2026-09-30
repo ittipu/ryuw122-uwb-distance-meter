@@ -1,0 +1,7 @@
+# Only the anchor + tag sketches, README and its screenshots are tracked.
+/*
+!/.gitignore
+!/README.md
+!/RYUM122_Lite_UWB_Anchor/
+!/RYUM122_Lite_UWB_Tag/
+!/docs/
